@@ -32,3 +32,7 @@ Install the required packages using pip:
 
 ```bash
 pip install pyspark pandas matplotlib scikit-learn
+
+---
+
+*This project was developed as part of DSCI 632 at Drexel University (Winter 2024).*
