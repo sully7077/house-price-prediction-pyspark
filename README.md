@@ -2,12 +2,12 @@
 
 This project aims to predict U.S. house prices using Zillow’s Home Value Index (ZHVI) dataset. It demonstrates the full data science workflow — from preprocessing and exploratory analysis to machine learning model building — all done at scale with PySpark.
 
-## Project Structure
+## Files Included
 
-- `notebooks/DSCI632_Final_Report.ipynb`: Main Jupyter notebook (PySpark-based).
-- `reports/House_Price_Prediction_DSCI632_FinalReport.pdf`: Final summary report.
-- `data/cleaned_data.csv`: Preprocessed dataset used for modeling.
-- `data/Metro_zhvi_...csv`: Original Zillow dataset (optional, or linked below).
+- `DSCI632_Final_Report.ipynb`: Main Jupyter notebook with code for data processing, analysis, and modeling.
+- `House_Price_Prediction_DSCI632_FinalReport.pdf`: Final summary report with explanations and visualizations.
+- `cleaned_data.csv`: Cleaned dataset used for modeling.
+- `Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv`: Original Zillow dataset (optional, full raw data).
 
 ## Key Highlights
 
