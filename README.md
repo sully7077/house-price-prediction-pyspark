@@ -1,6 +1,6 @@
 # House Price Prediction Using PySpark
 
-This project aims to predict U.S. house prices using Zillow’s Home Value Index (ZHVI) dataset. It demonstrates the full data science workflow — from preprocessing and exploratory analysis to machine learning model building — all done at scale with PySpark.
+This project aims to predict U.S. house prices using Zillow’s Home Value Index (ZHVI) dataset. It demonstrates the full data science workflow — from preprocessing and exploratory analysis to machine learning model building — all done at scale with PySpark.  It was developed for DSCI 632 at Drexel University.
 
 ## Files Included
 
