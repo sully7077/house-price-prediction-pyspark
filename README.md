@@ -7,7 +7,7 @@ This project aims to predict U.S. house prices using Zillow’s Home Value Index
 - `DSCI632_Final_Report.ipynb`: Main Jupyter notebook with code for data processing, analysis, and modeling.
 - `House_Price_Prediction_DSCI632_FinalReport.pdf`: Final summary report with explanations and visualizations.
 - `cleaned_data.csv`: Cleaned dataset used for modeling.
-- `Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv`: Original Zillow dataset (optional, full raw data).
+- `Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv`: Original Zillow dataset (full raw data).
 
 ## Key Highlights
 
