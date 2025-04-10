@@ -26,6 +26,12 @@ This project aims to predict U.S. house prices using Zillow’s Home Value Index
   - MAE: 58,686  
   - R²: 0.2712
 
+## Team Members
+
+- Steven Sullivan  
+- Abdulla Razick  
+- Uditi Shah 
+
 ## Requirements
 
 Install the required packages using pip:
